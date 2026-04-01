@@ -40,3 +40,7 @@ A microcontroller controls rows, columns, and layers to create the illusion of a
 - Microcontroller sends signals to manage animations  
 
 ---
+
+## 📜 License
+
+This project is licensed under the MIT License.
